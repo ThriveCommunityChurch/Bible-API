@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleAPI.Repositories", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleAPI.Application", "..\BibleAPI.Application\BibleAPI.Application.csproj", "{50848AC4-0789-4751-AA5F-335E03A1DF16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleAPI.ImportTool", "..\BibleAPI.ImportTool\BibleAPI.ImportTool.csproj", "{179171DB-611E-4CD4-B882-DC86B4778987}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{50848AC4-0789-4751-AA5F-335E03A1DF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50848AC4-0789-4751-AA5F-335E03A1DF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50848AC4-0789-4751-AA5F-335E03A1DF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179171DB-611E-4CD4-B882-DC86B4778987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179171DB-611E-4CD4-B882-DC86B4778987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179171DB-611E-4CD4-B882-DC86B4778987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179171DB-611E-4CD4-B882-DC86B4778987}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

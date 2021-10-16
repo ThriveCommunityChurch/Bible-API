@@ -11,7 +11,15 @@ namespace Bible_API.Controllers
     [Route("[controller]")]
     public class PassageController : ControllerBase
     {
-        public PassageController()
+        /// <summary>
+        /// Retrieve a 
+        /// </summary>
+        /// <remarks>
+        /// </remarks>
+        /// <param name="passage"></param>
+        /// <param name="version"></param>
+        /// <param name="language"></param>
+        public PassageController(string passage, string version, string language)
         {
         }
 
